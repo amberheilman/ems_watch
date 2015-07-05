@@ -1,0 +1,13 @@
+body { background-position: top center; background-image: url('firefighter.jpg'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover; max-height: 90%; max-width: 100%; margin: 0px;}
+
+.banner {background-color: black; height: 25%; width: 100%; text-align: center; margin-top: 570px;}
+.banner h1 {color: white; font-family: monospace; font-size: -webkit-xxx-large;}
+.banner h5 {color: white; font-family: monospace; font-size: large;}
+
+.block1 {background-color: white; height: 70%; width: 100%; font-size: 2em;}
+.block1 ul {padding: 1%; list-style-type: none; display: inline-flex; max-width: 99%;}
+.block1 li:hover {color: rgb(203, 26, 181);}
+.block1 li {text-align: center; padding-left: 10%; padding-right: 10%; padding-top: 5%;}
+
+.footer {padding-top: 0.5em; padding-right: 2%; text-align: right; color: white; font-family: Helvetica; height: 4%; background-color: rgb(203, 26, 181); opacity: 0.6;}
+.footer a {text-decoration: none; color: white;}
